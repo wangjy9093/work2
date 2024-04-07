@@ -1,0 +1,4 @@
+C:\Users\18038\Desktop\软件工程\Sample-Test1\x64\Debug\Sample-Test1.vcxproj.CopyComplete
+C:\Users\18038\Desktop\软件工程\Sample-Test1\x64\Debug\Sample-Test1.exe
+C:\Users\18038\Desktop\软件工程\Sample-Test1\x64\Debug\gtest.pdb
+C:\Users\18038\Desktop\软件工程\Sample-Test1\x64\Debug\gtest_main.pdb
